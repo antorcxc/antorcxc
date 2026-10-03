@@ -2,18 +2,6 @@
 
 <p>Here is just a guy learning</p>
 
-<table>
-<tr>
-<td>a</td>
-<td>b <br> c</td>
-</tr>
-
-<tr>
-<td>a</td>
-<td>b</td>
-</tr>
-</table>
-
 <!--
 **antorcxc/antorcxc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
