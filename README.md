@@ -5,7 +5,7 @@
 <table>
 <tr>
 <td>a</td>
-<td>b</td>
+<td>b <br> c</td>
 </tr>
 
 <tr>
